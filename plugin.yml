@@ -1,0 +1,6 @@
+main: com.padfoot.firstplugin.Main
+name: DiscordPlugin
+description: Display Discord Plugin
+version: 1.0
+commands:
+  discord: Displays the servers discord
